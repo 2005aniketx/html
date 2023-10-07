@@ -1,81 +1,23 @@
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Invoice</title>
-		<link rel="stylesheet" href="style.css">
-		<link rel="license" href="https://www.opensource.org/licenses/mit-license/">
-		<script src="script.js"></script>
-	</head>
-	<body>
-		<header>
-			<h1>Invoice</h1>
-			<address contenteditable>
-				<p>Jonathan Neal</p>
-				<p>101 E. Chapman Ave<br>Orange, CA 92866</p>
-				<p>(800) 555-1234</p>
-			</address>
-			<span><img alt="" src="http://www.sn college.com/examples/invoice/logo.png"><input type="file" accept="image/*"></span>
-		</header>
-		<article>
-			<h1>Recipient</h1>
-			<address contenteditable>
-				<p>Some Company<br>c/o Some Guy</p>
-			</address>
-			<table class="meta">
-				<tr>
-					<th><span contenteditable>Invoice #</span></th>
-					<td><span contenteditable>101138</span></td>
-				</tr>
-				<tr>
-					<th><span contenteditable>Date</span></th>
-					<td><span contenteditable>January 1, 2012</span></td>
-				</tr>
-				<tr>
-					<th><span contenteditable>Amount Due</span></th>
-					<td><span id="prefix" contenteditable>$</span><span>600.00</span></td>
-				</tr>
-			</table>
-			<table class="inventory">
-				<thead>
-					<tr>
-						<th><span contenteditable>Item</span></th>
-						<th><span contenteditable>Description</span></th>
-						<th><span contenteditable>Rate</span></th>
-						<th><span contenteditable>Quantity</span></th>
-						<th><span contenteditable>Price</span></th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td><a class="cut">-</a><span contenteditable>Front End Consultation</span></td>
-						<td><span contenteditable>Experience Review</span></td>
-						<td><span data-prefix>$</span><span contenteditable>150.00</span></td>
-						<td><span contenteditable>4</span></td>
-						<td><span data-prefix>$</span><span>600.00</span></td>
-					</tr>
-				</tbody>
-			</table>
-			<a class="add">+</a>
-			<table class="balance">
-				<tr>
-					<th><span contenteditable>Total</span></th>
-					<td><span data-prefix>$</span><span>600.00</span></td>
-				</tr>
-				<tr>
-					<th><span contenteditable>Amount Paid</span></th>
-					<td><span data-prefix>$</span><span contenteditable>0.00</span></td>
-				</tr>
-				<tr>
-					<th><span contenteditable>Balance Due</span></th>
-					<td><span data-prefix>$</span><span>600.00</span></td>
-				</tr>
-			</table>
-		</article>
-		<aside>
-			<h1><span contenteditable>Additional Notes</span></h1>
-			<div contenteditable>
-				<p>A finance charge of 1.5% will be made on unpaid balances after 30 days.</p>
+<div class="id-card-tag"></div>
+	<div class="id-card-tag-strip"></div>
+	<div class="id-card-hook"></div>
+	<div class="id-card-holder">
+		<div class="id-card">
+			<div class="header">
+				<img src="https://lh3.googleusercontent.com/-ebxWAGWvWg0/WTABBfdBv2I/AAAAAAAAAqw/qef78bVeIngorIsmAUD4tWVUd8WDvZyuQCEw/w140-h74-p/Untitled-2.png">
 			</div>
-		</aside>
-	</body>
-</html>
+			<div class="photo">
+				<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAuXAAAAJDE2YjQzOGZkLTU5YzAtNGRkNC04NTUzLTM3Zjg0ZWVlMGQxZA.jpg">
+			</div>
+			<h2>Kiran Das DA</h2>
+			<div class="qr-code">
+				<img src="https://www.shopify.com/growth-tools-assets/qr-code/shopify-faae7065b7b351d28495b345ed76096c03de28bac346deb1e85db632862fd0e4.png">
+			</div>
+			<h3>www.onetikk.info</h3>
+			<hr>
+			<p><strong>"PENGG"</strong>HOUSE,4th Floor, TC 11/729(4), Division Office Road <p>
+			<p>Near PMG Junction, Thiruvananthapuram Kerala, India <strong>695033</strong></p>
+			<p>Ph: 9446062493 | E-ail: info@onetikk.info</p>
+
+		</div>
+	</div>
