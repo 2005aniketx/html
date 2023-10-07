@@ -686,7 +686,11 @@
   </div>
 </div>
 <!---------- Footer-Section HTML Code Ends --------->
-<!---------- Featured-Section HTML Code Ends --------->
+<!---------- Featured-Section HTML Code Ends ---------><!-- Footer-bottom Section HTML Code STARTS -->
+<div class="width-100 footer2-bacbor">
+  <p class="footer2-content">Copyright Â© 2023, dezven.com. All Rights Reserved</p>
+</div>
+<!---------- Footer-bottom Section HTML Code Ends --------->
 <!-- Footer-bottom Section HTML Code STARTS -->
 <div class="width-100 footer2-bacbor">
   <p class="footer2-content">Copyright Â© 2023, dezven.com. All Rights Reserved</p>
